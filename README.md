@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+My name is Ye Zin Wai taking OPS445. 
+<!--e
 **yzwai/yzwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
